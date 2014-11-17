@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'inquisitive_alex'
+
+alex = InquisitiveAlex.new
+alex.tell
