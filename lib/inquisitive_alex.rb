@@ -1,9 +1,11 @@
 require_relative "inquisitive_alex/version"
 
-module InquisitiveAlex
+class InquisitiveAlex
 
-  def tell
-    "Stop asking questions, Alex."
+  def self.tell
+      %x(say "Stop asking questions, Alex.")
   end
 
 end
+
+InquisitiveAlex.tell
