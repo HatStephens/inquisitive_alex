@@ -2,5 +2,5 @@
 
 require 'inquisitive_alex'
 
-alex = InquisitiveAlex.new
+alex = InquisitiveAlex
 alex.tell
