@@ -1,4 +1,4 @@
-require "./lib/inquisitive_alex/version"
+require "inquisitive_alex/version"
 
 module InquisitiveAlex
 

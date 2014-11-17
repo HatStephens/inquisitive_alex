@@ -1,6 +1,6 @@
 # InquisitiveAlex
 
-TODO: Write a gem description
+A simple gem which I have used to try and create my first gem. It is a simple gem which prints a simple string: "Stop asking questions, Alex.".
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
 
 ## Contributing
 
