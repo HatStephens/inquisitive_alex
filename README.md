@@ -1,6 +1,6 @@
 # InquisitiveAlex
 
-A simple gem which I have used to try and create my first gem. It is a simple gem which prints a simple string: "Stop asking questions, Alex.".
+A simple gem which I have used to try and create my first gem. It is a simple gem which prints a simple string: "Stop asking questions, Alex.". Version 0.2.1 works in the command line.
 
 ## Installation
 
@@ -21,10 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ````
-$ irb
-> require 'inquisitive_alex'
-> alex = InquisitiveAlex
-> alex.tell
+$ inquisitive_alex
 ````
 
 ## Contributing
