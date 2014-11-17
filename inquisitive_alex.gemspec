@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = InquisitiveAlex::VERSION
   spec.authors       = ["Stephen Giles"]
   spec.email         = [""]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "A simple gem telling Alex to stop asking questions"
+  spec.description   = "A trial in writing my first gem which prints out a single string, telling Alex to stop asking questions."
   spec.homepage      = ""
   spec.license       = "MIT"
 
