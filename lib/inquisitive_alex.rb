@@ -7,5 +7,3 @@ class InquisitiveAlex
   end
 
 end
-
-InquisitiveAlex.tell

@@ -21,7 +21,10 @@ Or install it yourself as:
 ## Usage
 
 ````
-$ ruby
+$ irb
+> require 'inquisitive_alex'
+> alex = InquisitiveAlex
+> alex.tell
 ````
 
 ## Contributing
