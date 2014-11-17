@@ -1,4 +1,4 @@
-require "inquisitive_alex/version"
+require_relative "inquisitive_alex/version"
 
 module InquisitiveAlex
 

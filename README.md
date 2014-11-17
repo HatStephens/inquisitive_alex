@@ -20,7 +20,15 @@ Or install it yourself as:
 
 ## Usage
 
-
+````
+$ ruby
+> require 'inquisitive_alex'
+> class Alex
+>   include InquisitiveAlex
+> end
+> alex = Alex.new
+> alex.tell
+````
 
 ## Contributing
 
